@@ -1,4 +1,4 @@
-## Hi there, I'm RealMikix 👋
+## Hi there, I'm SlynxCZ 👋
 
 <h3>I'm developer from Czech Republic.</h3>
 <h5>I make websites, web applications, CS:2 servers and discord bots.</h5>
