@@ -12,3 +12,4 @@ Hi, I am a full-stack website developer from **Czech republic**.<br><br>💻 Ful
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SlynxCZ&icon=1&color=1)](https://visitcount.itsvg.in)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlynxCZ&theme=tokyonight)
