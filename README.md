@@ -1,14 +1,45 @@
-# Hi there, I'm SlynxCZ 👋
-Hi, I am a full-stack website developer from **Czech republic**.<br><br>💻 Full-stack website developer<br>😍 NextJS, TailwindCSS and MySQL-Enhanced enjoyer<br>🔭 I’m currently working on **[FUNPLAY.pro CS:2 portal](https://funplay.pro)**<br>
+# Hey, I'm SlynxCZ 👋
+
+🎮 CS2 Plugin Developer & Fullstack Engineer from **Czech Republic**  
+💥 Focused on **Counter-Strike 2 development** in C++ (Metamod) and C# (CounterStrikeSharp)  
+🛠️ Creator of advanced server systems, game modes, and real-time stat platforms  
+🌍 Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 community server portal in Czechia & Slovakia
+
+---
+
+## 🚀 What I Build
+
+- ⚙️ **Custom CS2 plugins** (hybrid architecture – C++ Metamod core, C# logic layers)
+- 📈 **In-game systems** like challenge managers, skin changers, and team control
+- 🧠 **Server APIs & bridges** between server runtime, database and player sessions
+- 🖥️ **Full-stack web platforms** for player stats, admin tools, and matchmaking
+
+---
 
 ## 🌐 Contact
-**Website**: [slynxdev.cz](https://www.slynxdev.cz), [slynxdev.online](https://www.slynxdev.online)
-<br>
-**Email:** michal@prikryl.me
-<br>
 
-## 💻 Workspace
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23646CFF.svg?style=for-the-badge&logo=/mariadb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Website**: [slynxdev.cz](https://www.slynxdev.cz) / [slynxdev.online](https://www.slynxdev.online)  
+- **Email**: [michal@prikryl.me](mailto:michal@prikryl.me)  
+- **Discord**: `@slynxcz`
 
-## 📊 Contribution
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlynxCZ&theme=tokyonight)
+---
+
+## 🖥️ Workspace
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HL2SDK](https://img.shields.io/badge/HL2SDK-CS2-brightgreen?style=for-the-badge)
+![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-purple?style=for-the-badge)
+![Metamod](https://img.shields.io/badge/Metamod-CS2-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Contribution
+
+![SlynxCZ GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlynxCZ&theme=tokyonight)
