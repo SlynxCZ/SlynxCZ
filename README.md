@@ -18,7 +18,7 @@
 
 ## 🌐 Contact
 
-- **Website**: [slynxdev.cz](https://www.slynxdev.cz) / [slynxdev.online](https://www.slynxdev.online)  
+- **Website**: [slynxdev.cz](https://www.slynxdev.cz)
 - **Email**: [michal@prikryl.me](mailto:michal@prikryl.me)  
 - **Discord**: `@slynxcz`
 
