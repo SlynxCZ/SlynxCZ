@@ -9,7 +9,7 @@
 
 ## 🚀 What I Build
 
-- ⚙️ **Custom CS2 plugins** (hybrid architecture – C++ Metamod core, C# logic layers)
+- ⚙️ **Custom CS2 plugins** C++ Metamod, C# CounterStrikeSharp)
 - 📈 **In-game systems** like challenge managers, skin changers, and team control
 - 🧠 **Server APIs & bridges** between server runtime, database and player sessions
 - 🖥️ **Full-stack web platforms** for player stats, admin tools, and matchmaking
