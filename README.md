@@ -9,7 +9,7 @@ Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 commun
 
 ## What I Build
 
-- **Custom CS2 plugins** C++ Metamod)
+- **Custom CS2 plugins** C++ Metamod
 - **In-game systems** like challenge managers, skin changers, and engine level systems
 - **Server APIs & bridges** between server runtime, database and player sessions
 - **Full-stack web platforms** for player stats, admin tools, and matchmaking
