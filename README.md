@@ -44,4 +44,4 @@ Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 commun
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlynxCZ&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlynxCZ&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlynxCZ&theme=tokyonight&utcOffset=1)
