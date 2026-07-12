@@ -24,21 +24,9 @@ Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 commun
 
 ---
 
-## Workspace
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HL2SDK](https://img.shields.io/badge/HL2SDK-CS2-brightgreen?style=for-the-badge)
-![Metamod](https://img.shields.io/badge/Metamod-CS2-blue?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## GitHub Contribution
+
+![](https://komarev.com/ghpvc/?username=SlynxCZ&color=7289da)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlynxCZ&theme=tokyonight)
