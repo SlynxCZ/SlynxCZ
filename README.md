@@ -28,7 +28,6 @@ Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 commun
 
 ![](https://komarev.com/ghpvc/?username=SlynxCZ&color=7289da)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlynxCZ&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlynxCZ&theme=tokyonight)
