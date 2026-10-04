@@ -19,7 +19,7 @@ Owner & Lead Developer of [**FUNPLAY.pro**](https://funplay.pro), top CS2 commun
 ## Contact
 
 - **Website**: [slynxdev.cz](https://www.slynxdev.cz)
-- **Email**: [michal@prikryl.me](mailto:michal@prikryl.me)  
+- **Email**: [slynx@funplay.pro](mailto:slynx@funplay.pro)  
 - **Discord**: `@slynxcz`
 
 ---
